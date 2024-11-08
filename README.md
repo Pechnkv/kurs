@@ -11,7 +11,4 @@
 * Что такое GitHub
 * Что такое Markdown
 * dsssd
-* 11111
-* 7777777
-* fdsfdssddd
-* 77777
+ 
