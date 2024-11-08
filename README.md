@@ -10,6 +10,3 @@
 * Что такое Git
 * Что такое GitHub
 * Что такое Markdown
-* ddddddd
-* dsadsdsaaa
-* 1111111
